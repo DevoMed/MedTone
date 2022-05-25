@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MedTone</string>
+    <string name="title_home">Fetch</string>
+    <string name="title_dashboard">Library</string>
+    <string name="title_notifications">Settings</string>
+    <string name="user">Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="register">Registrate Aquí</string>
+    <string name="acces">Registrate</string>
+
+</resources>

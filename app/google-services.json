@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "656543281502",
+    "firebase_url": "https://musicfy-b7c4d-default-rtdb.firebaseio.com",
+    "project_id": "musicfy-b7c4d",
+    "storage_bucket": "musicfy-b7c4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656543281502:android:330cd9dd035d1bba289fcf",
+        "android_client_info": {
+          "package_name": "com.proyecto.MedTone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656543281502-20vqj8elmoip004855mg84s20r6bsgms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC62AS6bAu3K3v2qQt0i6QukIBbaK0jKWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656543281502-20vqj8elmoip004855mg84s20r6bsgms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
